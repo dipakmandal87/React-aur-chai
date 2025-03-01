@@ -1,9 +1,9 @@
 ---
 
-## 🚀 **Project Name
-*A brief description of your React project.*  
+## 🚀 Project Name
+  A brief description of your React project.*  
 
-### 📸 **Screenshot**  
+### 📸 Screenshot
 ![Project Screenshot](screenshot.png) *(Replace with an actual screenshot link)*  
 
 ---
@@ -18,20 +18,20 @@
 
 ### 📦 Installation
 
-1️⃣ **Clone the repository**
+1️⃣ Clone the repository
 
 ```sh
 git clone https://github.com/your-username/repo-name.git
 cd repo-name
 ```
 
-2️⃣ **Install dependencies**
+2️⃣ Install dependencies
 
 ```sh
 npm install
 ```
 
-3️⃣ **Run the development server**
+3️⃣ Run the development server
 
 ```sh
 npm start
@@ -39,7 +39,7 @@ npm start
 
 ---
 
-### 🔧 **Technologies Used**
+### 🔧 Technologies Used
 
 - ⚛️ React.js
 - 🎨 Tailwind CSS / CSS
@@ -48,7 +48,7 @@ npm start
 
 ---
 
-### 🏗 **Folder Structure**
+### 🏗 Folder Structure
 
 ```
 📦 project-name
@@ -63,13 +63,13 @@ npm start
 
 ---
 
-### 🎯 **Contributing**
+### 🎯 Contributing
 
 Contributions are welcome! Please **fork** this repository and submit a **pull request**.
 
 ---
 
-### 📜 **License**
+### 📜 License
 
 This project is licensed under the **MIT License**.
 
