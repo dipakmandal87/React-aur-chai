@@ -1,6 +1,6 @@
 ---
 
-## 🚀 **Project Name**  
+## 🚀 **Project Name
 *A brief description of your React project.*  
 
 ### 📸 **Screenshot**  
@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠 **Features**
+### 🛠 Features
 
 ✅ Feature 1  
 ✅ Feature 2  
@@ -16,7 +16,7 @@
 
 ---
 
-### 📦 **Installation**
+### 📦 Installation
 
 1️⃣ **Clone the repository**
 
