@@ -74,5 +74,3 @@ Contributions are welcome! Please **fork** this repository and submit a **pull r
 This project is licensed under the **MIT License**.
 
 ---
-
-Would you like me to tailor this to your specific project? 😊🔥
