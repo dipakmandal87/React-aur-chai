@@ -6,7 +6,7 @@ function App() {
     <>
       <Chai />
       <h3>
-        Have chai now:{username} is variable injected whis is a evaluated
+        Have chai now:{username} is variable injected which is a evaluated
         expression
       </h3>
       <h4>Its getting cold </h4>
